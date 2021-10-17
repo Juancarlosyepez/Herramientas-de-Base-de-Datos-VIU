@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "615e1f5d843a076e7282e8b8"
+  },
+  "nombre": "Andres Riera Herrera",
+  "email": "andresr@gmail.com",
+  "telefono": "200-88-76",
+  "salario": 1500,
+  "fecha_ingreso": {
+    "$date": "2021-10-11T05:00:00Z"
+  },
+  "departamento": "finanzas"
+},{
+  "_id": {
+    "$oid": "615e2482843a076e7282e8b9"
+  },
+  "nombre": "Lucas Serrano Caballero",
+  "email": "lucas99@gmail.com",
+  "telefono": "115-24-36",
+  "salario": 1200,
+  "fecha_ingreso": {
+    "$date": "2018-05-17T05:00:00Z"
+  },
+  "departamento": "ventas"
+},{
+  "_id": {
+    "$oid": "615e2813843a076e7282e8ba"
+  },
+  "nombre": "Pablo Pons Sanz",
+  "email": "ppsanz@gmail.com",
+  "telefono": "748-72-75",
+  "salario": 1350,
+  "fecha_ingreso": {
+    "$date": "2016-07-01T05:00:00Z"
+  },
+  "departamento": "recursos humanos"
+},{
+  "_id": {
+    "$oid": "615e2813843a076e7282e8bb"
+  },
+  "nombre": "Saul Moreno Santos",
+  "email": "saul.morenosantos@gmail.com",
+  "telefono": "346-87-27",
+  "salario": 1600,
+  "fecha_ingreso": {
+    "$date": "2016-07-01T05:00:00Z"
+  },
+  "departamento": "marketing"
+},{
+  "_id": {
+    "$oid": "615e6e9f843a076e7282e8bc"
+  },
+  "nombre": "Nil Soler Diez",
+  "email": "nilsoler@gmail.com",
+  "telefono": "576-84-28",
+  "salario": 1100,
+  "fecha_ingreso": {
+    "$date": "2016-04-03T05:00:00Z"
+  },
+  "departamento": "veterinario"
+},{
+  "_id": {
+    "$oid": "615e6e9f843a076e7282e8bd"
+  },
+  "nombre": "Sergio Reyes Gallardo",
+  "email": "zerg@gmail.com",
+  "telefono": "598-95-67",
+  "salario": 1000,
+  "fecha_ingreso": {
+    "$date": "2016-04-03T05:00:00Z"
+  },
+  "departamento": "veterinario"
+},{
+  "_id": {
+    "$oid": "615e6e9f843a076e7282e8be"
+  },
+  "nombre": "Isaac Jimenez Ortiz",
+  "email": "isaacortiz@gmail.com",
+  "telefono": "370-19-65",
+  "salario": 1600,
+  "fecha_ingreso": {
+    "$date": "2016-07-08T05:00:00Z"
+  },
+  "departamento": "recursos humanos"
+},{
+  "_id": {
+    "$oid": "615e6e9f843a076e7282e8bf"
+  },
+  "nombre": "Guillermo Vidal Gomez",
+  "email": "guillevidal@gmail.com",
+  "telefono": "099-05-68",
+  "salario": 1400,
+  "fecha_ingreso": {
+    "$date": "2016-01-03T05:00:00Z"
+  },
+  "departamento": "recursos humanos"
+},{
+  "_id": {
+    "$oid": "615e6e9f843a076e7282e8c0"
+  },
+  "nombre": "Daniel Quintero Quintero",
+  "email": "danielquinterox2@gmail.com",
+  "telefono": "261-97-06",
+  "salario": 1500,
+  "fecha_ingreso": {
+    "$date": "2017-03-05T05:00:00Z"
+  },
+  "departamento": "informatica"
+},{
+  "_id": {
+    "$oid": "615e6e9f843a076e7282e8c1"
+  },
+  "nombre": "Juan Manuel Olivares",
+  "email": "juanma@gmail.com",
+  "telefono": "269-37-06",
+  "salario": 1500,
+  "fecha_ingreso": {
+    "$date": "2017-03-05T05:00:00Z"
+  },
+  "departamento": ""
+},{
+  "_id": {
+    "$oid": "615e6e9f843a076e7282e8c2"
+  },
+  "nombre": "Miguel Soto",
+  "email": "misoto@gmail.com",
+  "telefono": "269-92-06",
+  "salario": 1900,
+  "fecha_ingreso": {
+    "$date": "2017-03-05T05:00:00Z"
+  },
+  "departamento": "informatica"
+},{
+  "_id": {
+    "$oid": "615e6e9f843a076e7282e8c3"
+  },
+  "nombre": "Alejandro Fernandez",
+  "email": "alefer@gmail.com",
+  "telefono": "119-91-16",
+  "salario": 1850,
+  "fecha_ingreso": {
+    "$date": "2017-03-05T05:00:00Z"
+  },
+  "departamento": "informatica"
+}]
